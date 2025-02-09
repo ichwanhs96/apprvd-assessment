@@ -24,6 +24,7 @@ Build a simple React application using the **Plate UI** library to create a ri
 
 - **Plate UI Documentation**: https://plate.udecode.io/docs
 - **CodeSandbox Guide**: https://codesandbox.io/docs
+- **Plate UI CodeSandbox Template Example***: https://codesandbox.io/p/sandbox/muddy-dawn-sg8f4l
 
 ### **Evaluation Criteria**:
 - **Functionality**: Does the rich text editor work as expected? Does adding comment function works as intended?
