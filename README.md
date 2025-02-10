@@ -18,7 +18,7 @@ Build a simple React application using the **Plate UI** library to create a ri
 4. Display the formatted text in real-time below the editor.
 5. Every time the page loaded, fill the editor with default word “Hello World”
 6. Add comment programmatically on “World” text with random text generated from this URL `curl http://loripsum.net/api/random`
-7. Once completed, share the CodeSandbox URL via email and send it to ichwanharyosembodo96@gmail.com
+7. Once completed, share the CodeSandbox URL via email and send it to hello@apprvd.co and cc: Bianca@apprvd.co
 
 ### **Resources**:
 
