@@ -8,17 +8,11 @@ Build a simple React application using the **Plate UI** library to create a ri
 
 ---
 
-### **Requirements**:
-
-1. Use **CodeSandbox** to create a React project.
-2. Install and use the **Plate UI** library to implement a rich text editor.
-3. The editor should have the following features:
-    - Bold, italic, and underline formatting options.
-    - A toolbar to toggle these formatting options.
-4. Display the formatted text in real-time below the editor.
-5. Every time the page loaded, fill the editor with default word “Hello World”
-6. Add comment programmatically on “World” text with random text generated from this URL `curl http://loripsum.net/api/random`
-7. Once completed, share the CodeSandbox URL via email and send it to hello@apprvd.co and cc: Bianca@apprvd.co
+### **Assessments**:
+Choose 1 from assessment requirements below:
+- [Dynamic Comments](assessment-1.md)
+- [Document Versioning and Update](assessment-2.md)
+- [Save document as DOCX](assessment-3.md)
 
 ### **Resources**:
 
