@@ -4,7 +4,7 @@
 
 **Objective**:
 
-Build a simple React application using the **Plate UI** library to create a rich text editor. The application should allow users to input and format text (e.g., bold, italic, underline) and every time the app loaded, fill the text editor with text “Hello World” and add comment programmatically to the word “World” with random text coming from this API  `curl http://loripsum.net/api/random` 
+Build a simple React application using the **Plate UI** library to create a rich text editor. The application should allow users to input and format text (e.g., bold, italic, underline).
 
 ---
 
